@@ -1,2 +1,4 @@
-# Kamdhenu-Dashboard
+Title: Donation Analytics Dashboard for Kamdhenu Client
+
+Description: This Power BI dashboard encapsulates my contributions during my internship with an esteemed Indian client, where I was tasked with building key performance indicators (KPIs) and crafting Data Analysis Expressions (DAX) tailored to the client's precise requirements. The centerpiece of this project is a comprehensive analysis of donations, empowering stakeholders to discern trends and patterns in donation contributions over time. Through dynamic features, users can explore donation trends by year, week, and month, gaining valuable insights into peak donation periods and identifying potential opportunities for strategic outreach and fundraising initiatives. This dashboard represents a culmination of analytical prowess and client-centric focus, facilitating data-driven decision-making and fostering impactful philanthropic endeavors within the Indian community.# Kamdhenu-Dashboard
 PowerBI Report
